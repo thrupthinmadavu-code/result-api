@@ -19,9 +19,9 @@ def get_results():
 
     return [
         {
-            "student_name": "Rahul Kumar",
-            "register_number": "22CS101",
-            "department": "CSE",
+            "student_name": "vineetha",
+            "register_number": "47",
+            "department": "AIDS",
             "subjects": [
                 {
                     "subject_name": "Python Programming",
